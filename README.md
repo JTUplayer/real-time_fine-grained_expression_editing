@@ -10,7 +10,7 @@
 ![编辑效果](https://github.com/JTUplayer/real-time_fine-grained_expression_editing/blob/master/imgs/GUI1.PNG) 
 
 
-##使用步骤
+## 使用步骤
 （1）需要首先下载StyleGAN2的官方模型，放置主目录下
 
 （2）若需要编辑自己的真实图片，首先将图片裁剪到与CelebA-HQ数据类似的格式（人脸居中，且占大部分内容），再使用
